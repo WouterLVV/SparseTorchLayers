@@ -365,3 +365,6 @@ Thumbs.db
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,pycharm+all,pycharm+iml
+
+data/
+
